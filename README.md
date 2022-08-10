@@ -1,7 +1,7 @@
 
 # SLO - The “Still Looks OK” for fast, lossy image compression
 
-Single-file GPL licensed library for C/C++
+Single-file MIT licensed library for C/C++
 
 See [SLO.h](https://github.com/skandau/SLO.h) for
 the documentation and format specification.
